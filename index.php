@@ -10,8 +10,5 @@
    ?>
 </head>
 <body>
-    <script>
-       // open("./pages/quizPage.php" , "_self")
-    </script>
 </body>
 </html>
