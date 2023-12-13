@@ -32,6 +32,7 @@
             max-width: 30rem;
             margin-top: 1rem;
             border-radius: 0.5rem;
+            backdrop-filter: blur(10px);
         }
 
         form input {
